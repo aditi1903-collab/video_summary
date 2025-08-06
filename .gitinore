@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+temp_audio.wav
+example_video.mp4
+uploaded_video.mp4
